@@ -1,0 +1,3 @@
+Nama Branch harus format seperti ini nama_fitur_jabatan
+Commit Rule harus jelas dan deskripsi diperjelas apa saja yang dilakukan
+Setiap hari wajib ada commit
